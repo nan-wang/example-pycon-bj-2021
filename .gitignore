@@ -1,0 +1,6 @@
+__pycache__/
+crossmodal_search/flows/__pycache__/
+crossmodal_search/workspace/
+.DS_Store
+venv/
+.idea/
