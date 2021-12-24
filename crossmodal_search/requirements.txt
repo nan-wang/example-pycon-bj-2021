@@ -1,5 +1,0 @@
-click~=7.1.2
-streamlit==0.89.0
-jina==2.6.2
-opencv-python==4.5.4.60
-pqlite==0.1.3
